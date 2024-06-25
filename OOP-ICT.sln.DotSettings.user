@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7e82bbe_002D89ba_002D48ff_002D8b76_002De986d539a461/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckTestIsWorking_CorrectBuild" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E2A866AC-8D31-415D-9491-EA603B1E9101::net6.0::OOP_ICT.Dealer.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA02E33D-567B-4E72-A40F-AB9D0F36DC3A::net6.0::OOP_ICT.Dealer.Tests.Tests.CheckPlayers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA02E33D-567B-4E72-A40F-AB9D0F36DC3A::net6.0::OOP_ICT.Second.Tests.Tests.CheckFirstCards&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA02E33D-567B-4E72-A40F-AB9D0F36DC3A::net6.0::OOP_ICT.Second.Tests.Tests.CheckCardsCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA02E33D-567B-4E72-A40F-AB9D0F36DC3A::net6.0::OOP_ICT.Second.Tests.Tests.CheckCardsCount2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA02E33D-567B-4E72-A40F-AB9D0F36DC3A::net6.0::OOP_ICT.Second.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50FD398D-9654-4E28-9F4E-8DF3A8DC7550::net6.0::OOP_ICT.Third.Tests.Tests.CheckBankDeposit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50FD398D-9654-4E28-9F4E-8DF3A8DC7550::net6.0::OOP_ICT.Third.Tests.Tests.CheckBankWithdraw&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50FD398D-9654-4E28-9F4E-8DF3A8DC7550::net6.0::OOP_ICT.Third.Tests.Tests.CheckBankBet&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50FD398D-9654-4E28-9F4E-8DF3A8DC7550::net6.0::OOP_ICT.Third.Tests.Tests.CheckCasinoLose&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50FD398D-9654-4E28-9F4E-8DF3A8DC7550::net6.0::OOP_ICT.Third.Tests.Tests.CheckCasinoWin&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50FD398D-9654-4E28-9F4E-8DF3A8DC7550::net6.0::OOP_ICT.Third.Tests.Tests.CheckCasinoBJ&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50FD398D-9654-4E28-9F4E-8DF3A8DC7550::net6.0::OOP_ICT.Third.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EAFB5FDD-EAED-43B1-8E92-757F71E13384::net6.0::OOP_ICT.Third.Tests.Tests.CheckPokerCombo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EAFB5FDD-EAED-43B1-8E92-757F71E13384::net6.0::OOP_ICT.Third.Tests.Tests.CheckGame&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EAFB5FDD-EAED-43B1-8E92-757F71E13384::net6.0::OOP_ICT.Third.Tests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
